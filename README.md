@@ -87,9 +87,7 @@ A repo of my most frequently used Powershell functions
 
 ### Built With
 
-* [](Powershell)
-* []()
-* []()
+* [Powershell]()
 
 
 
