@@ -122,8 +122,8 @@ This is an example of how to list things you need to use the software and how to
 
 In your terminal cd into location:
 
-Import-Module .\[function name]
-[function name] -[parameter 1] -[parameter 2] ...
+`Import-Module .\[function name]`
+`[function name] -[parameter 1] -[parameter 2] ...`
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
